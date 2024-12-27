@@ -1,1 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Charan - CV</title>
+</head>
+<body>
+    <header>
+        <hr>
+        <h1>CHARAN KUMAR REDDY</h1>
+        <p><strong>Junior Frontend Developer</strong></p>
+        <p>2-1, OC-Street</p>
+            <p>Dharmaveram, ST 515671</p>
+            <p>(+91) 7995792264</p>
+        <p>Email: <a href="devarapallicharanreddy@gmail.com">devarapallicharanreddy@gmail.com</a></p>
+    </header>
+
+    <main>
+        <section id="skills">
+            <h2>Skills</h2>
+            <p>HTML, CSS, JavaScript, Java, React.js, Responsive Web Design, MySQl, Presentation,Python, Excel, Power BI, Data Visualization</p>
+        </section>
+
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <strong>Sri Venkateswara institute of technology , Ananthapur - B-tech</strong>
+                    <ul>
+                        <li><p>August 2020 to july 2024</p></li>
+                    <li><p>Organized or Participated in Events</p></li>
+                    <li><p>Worked on Innovative Projects</p></li>
+                    <li><p>Leadership and Club Activities</p></li>
+                    <li><p>Internships and Practical Experiences</p></li>
+                    <li><p>Personal Achievements and Growth</p></li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section id="experience">
+            <h2>Experience</h2>
+            <ul>
+                <li>
+                    <strong>Tech Solutions Pvt. Ltd., Bangalore, India - Software Developer Intern</strong>
+                    <p>June 2022 to August 2022</p>
+                    <ul>
+                        <li>Developed a web application to streamline internal workflows, reducing processing time by 30%.</li>
+                        <li>Collaborated with a team of 5 to design and implement a secure login system using OAuth 2.0.</li>
+                        <li>Optimized database queries, improving data retrieval speeds by 20%.</li>
+                    </ul>
+                    <p>Skills: Java, SQL, React.js</p>
+                </li>
+                <li>
+                    <strong>Innovatech Systems, Bangalore, India - Junior Data Analyst</strong>
+                    <p>January 2023 to June 2023</p>
+                    <ul>
+                        <li>Analyzed large datasets to identify trends, leading to a 15% increase in sales strategy efficiency.</li>
+                        <li>Automated data processing workflows using Python, reducing manual effort by 40%.</li>
+                        <li>Prepared and presented detailed reports to stakeholders, improving decision-making processes.</li>
+                    </ul>
+                    <p>Skills: Python, Excel, Power BI, Data Visualization</p>
+                </li>                
+            </ul>
+        </section>
+
+        <section id="across-the-internet">
+            <h2>Across the Internet</h2>
+            <p><a href="https://www.linkedin.com/in/charan-kumar-reddy-134164247/"></i>linkedin</a>
+                <a href="https://github.com/dcharanr"></i>GitHub</a>
+            </p>
+        </section>
+    </main>
+</body>
+</html>
 
